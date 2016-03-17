@@ -1,0 +1,21 @@
+STEP 1. Define an object called House.  Capture the following details.
+    Address
+    City
+    State
+    Zip
+
+STEP 2.  Define an object called Person WHICH inherits from house.  Capture the following details.
+    FirstName
+    LastName
+
+STEP 3.  Define a method which will print all of these items out for a given Person.
+
+STEP 4.  Create 4 Person objects.  Then show them all on a web page using the jade template.
+
+STEP 5.  Add 4 Person objects to MongoDB.  Connect to MongoDB from this application and show them on a web page using a jade template.
+
+STEP 6.  Write another javascript program which does the following.
+    Output the numbers 1-100, with one number on each row
+    IF the number is a multiple of 3, output an F instead of the number.
+    IF the number is a multiple of 5, output an B instead of the number.
+    IF the number is a multiple of 15, output an FB instead of the number.
